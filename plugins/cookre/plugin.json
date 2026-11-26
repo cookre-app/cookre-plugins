@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "cookre",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Search, read, add and edit the recipes in your Cook:RE library from ChatGPT, Codex or Claude.",
   "author": {
     "name": "Chad Kirby",
@@ -23,7 +23,7 @@
         "shortDescription": "Search and edit your recipes",
         "longDescription": "Cook:RE keeps your recipes as structured ingredients and steps. Connect it to search your library, read any recipe, and change it in conversation: swap an ingredient, add a step, or rewrite an instruction. Every edit is saved as a revision you can undo in the Cook:RE app. You can also organize recipes into collections, which the assistant shows you first and applies only after you agree. Needs the Cook:RE app on your iPhone with Cook:RE Unlimited.",
         "developerName": "Chad Kirby",
-        "category": "Other",
+        "category": "Productivity",
         "capabilities": [
           "Read",
           "Write"
